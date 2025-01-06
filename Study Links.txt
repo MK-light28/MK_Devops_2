@@ -1,0 +1,115 @@
+mv command in Linux
+https://www.youtube.com/results?search_query=mv+command+in+linux
+https://www.youtube.com/watch?v=gBScrrFHMT4
+
+Vi editor - mostly all about search and replace 
+https://www.youtube.com/shorts/52iHMUVme7E
+https://www.youtube.com/results?search_query=karthik+sr+kcyber+vi+editor
+https://docs.oracle.com/cd/E19253-01/806-7612/editorvi-62/index.html#:~:text=To%20find%20a%20character%20string,next%20occurrence%20of%20the%20string.
+https://www.linux.com/topic/desktop/vim-shortcuts-and-text-searches/#:~:text=Another%20way%20to%20find%20an,N%20to%20repeat%20the%20search.&text=%3Aset%20smartcase%20is%20a%20rather,only%20on%20typed%20search%20strings.
+i used from this below
+https://stackoverflow.com/questions/22147639/finding-exact-match-in-vim
+
+how to delete all text in file using Vi
+https://www.tecmint.com/delete-all-text-in-a-file-using-vi-editor/
+https://www.tecmint.com/reasons-to-learn-vi-vim-editor-in-linux/
+https://stackoverflow.com/questions/43429362/cannot-connect-the-virtual-device-sata01-because-no-corresponding-device-is-ava
+https://www.youtube.com/watch?v=FhOAF4iOplg
+most important
+https://stackoverflow.com/questions/8124315/how-i-can-delete-in-vim-all-text-from-current-line-to-end-of-file
+https://askubuntu.com/questions/353911/hitting-arrow-keys-adds-characters-in-vi-editor
+
+Linux Shells
+https://www.geeksforgeeks.org/different-shells-in-linux/
+https://www.google.com/search?q=all+distributions+of+linux+classified&sca_esv=d4a5450862dcd9df&hl=en&udm=2&biw=1517&bih=712&sxsrf=ADLYWIJDDs-Zar3wCuH38cxyPXni9bE_kQ%3A1734360281522&ei=2TxgZ5HKH-uJjuMP1JmwgQ4&ved=0ahUKEwjRmvjDw6yKAxXrhGMGHdQMLOAQ4dUDCBE&uact=5&oq=all+distributions+of+linux+classified&gs_lp=EgNpbWciJWFsbCBkaXN0cmlidXRpb25zIG9mIGxpbnV4IGNsYXNzaWZpZWRIkzVQ0wVYzzNwBXgAkAEAmAGXAaABuA2qAQQxLjE0uAEDyAEA-AEBmAICoAJxwgIEEAAYHsICBhAAGAgYHpgDAIgGAZIHAzEuMaAHyAU&sclient=img#vhid=eEDIKaarHTYK9M&vssid=mosaic
+5 MOST USED SHELLS               -remember 3 atleast   Bash, Csh, Ksh=(Bash+Csh)
+https://www.tecmint.com/different-types-of-linux-shells/
+
+
+how to delete the characters in forward direction in vi editor
+https://www.google.com/search?q=how+to+delete+the+characters+in+forward+direction+in+vi+editor&sca_esv=963e6bd44828a6b7&sxsrf=ADLYWILRI8OKWxu6dBajQcM68SPutryDvA%3A1734533766405&ei=huJiZ-ioGI6Y4-EPvrLSyAI&oq=How+to+delete+the+characters+in+forward+direction+in+&gs_lp=Egxnd3Mtd2l6LXNlcnAiNUhvdyB0byBkZWxldGUgdGhlIGNoYXJhY3RlcnMgaW4gZm9yd2FyZCBkaXJlY3Rpb24gaW4gKgIIADIFECEYoAEyBRAhGKABSM4qUOkNWOkNcAN4AZABAJgB1wGgAdcBqgEDMi0xuAEDyAEA-AEC-AEBmAIEoAKtAsICChAAGLADGNYEGEeYAwCIBgGQBgiSBwUzLjAuMaAHxAM&sclient=gws-wiz-serp
+How to delete the characters in backward direction in vi editor
+https://www.google.com/search?q=How+to+delete+the+characters+in+backward+direction+in+vi+editor+&sca_esv=f116e2fd97350b4d&hl=en&sxsrf=ADLYWIIfeMcpsCGhiW8-ZmQy6I1_UDZU7w%3A1734553027162&source=hp&ei=wy1jZ4zXB6rvseMPl-exsAY&iflsig=AL9hbdgAAAAAZ2M709keOAr5xXwPLAUNd6uSbK2KzIqL&ved=0ahUKEwjMxJrIkbKKAxWqd2wGHZdzDGYQ4dUDCBk&uact=5&oq=How+to+delete+the+characters+in+backward+direction+in+vi+editor+&gs_lp=Egdnd3Mtd2l6IkBIb3cgdG8gZGVsZXRlIHRoZSBjaGFyYWN0ZXJzIGluIGJhY2t3YXJkIGRpcmVjdGlvbiBpbiB2aSBlZGl0b3IgMgQQIRgKSLCAAVAAWK56cAB4AJABAJgBkwGgAeIHqgEDMS43uAEDyAEA-AEC-AEBmAIIoAKbCMICBBAjGCfCAggQABiABBiiBMICCBAAGKIEGIkFwgIHECMYsAIYJ5gDAJIHAzAuOKAHni8&sclient=gws-wiz
+MOST important
+https://stackoverflow.com/questions/1373841/vim-deleting-backward-tricks#:~:text=I%20use%20vi%20command%20line,will%20also%20delete%20words%20backwards.&text=When%20in%20Insert%20Mode%2C%20you,C-w%3E%20to%20delete%20words%20backwards.
+https://vimdoc.sourceforge.net/htmldoc/motion.html#motion.txt
+https://www.youtube.com/watch?v=1lYD5gwgZIA
+
+Internal and External Commands
+https://www.geeksforgeeks.org/internal-and-external-commands-in-linux/
+https://linuxconfig.org/internal-vs-external-linux-shell-commands#:~:text=Internal%20Command%20Example:%20cd:%20The,environment%20variable%20and%20runs%20it.
+
+PATH of a command
+https://stackoverflow.com/questions/2869100/how-to-find-directory-of-some-command
+
+&& and ; uses in Linux
+https://www.geeksforgeeks.org/difference-between-chaining-operators-in-linux/
+
+Detecting pattern at end of line using grep
+https://stackoverflow.com/questions/4800214/grep-for-beginning-and-end-of-line
+https://unix.stackexchange.com/questions/124462/detecting-pattern-at-the-end-of-a-line-with-grep
+
+Grep REGEX
+https://www.geeksforgeeks.org/regular-expression-grep/
+
+INPUT and OUTPUT REDIRECTIONS
+https://tldp.org/LDP/intro-linux/html/sect_05_01.html
+
+Make a normal user ROOT
+6 TOTAL METHODS
+https://www.geeksforgeeks.org/shell-script-to-give-root-privileges-to-a-user/
+https://askubuntu.com/questions/246146/how-can-i-permanently-grant-root-access-to-a-user
+1 EASIEST METHOD
+https://www.youtube.com/watch?v=8NxbmCkuX14
+https://www.scaler.com/topics/how-to-give-root-privileges-to-a-user-in-linux/
+
+LIST ALL USERS
+https://phoenixnap.com/kb/how-to-list-users-linux
+
+
+GOOGLED:
+lilo in linux
+components of linux operating system
+linux architecture diagram
+list of internal and external commands in linux
+most important shells in linux
+&& operator in linux
+how to search only blank spaces using grep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movies - yify
+The Hunchback of Notre Dame
+1956
+
+The Blob
+1958
+
+Lamb
+2021
+
+Warlock
+1989
+
+Summer of 84
+2018
+
+The Loved Ones
+2009
+
+The Manchurian Candidate
+2004
+
+The Cell
+2000
