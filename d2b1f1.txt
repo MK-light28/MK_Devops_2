@@ -3,3 +3,5 @@ b1 branch
 first file
   thats why,
 d2b1f1.txt
+
+THIS IS FOR "GIT MERGE" testing
