@@ -5,5 +5,5 @@ first file
 d2b2f1.txt
 
 THIS IS FOR "GIT MERGE" testing
-merging this fine into Branch 1
+merging this file into Branch 1
 using PULL REQUEST
